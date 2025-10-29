@@ -164,18 +164,6 @@ demo = gr.Interface(
     
     **Note:** If you see an error, please run `python train_mushroom_model.py` first to train the model.
     """,
-    examples=[
-        # Example 1: Typical edible mushroom
-        ['x (convex)', 's (smooth)', 'n (brown)', 't (bruises)', 'n (none)', 'f (free)', 
-         'c (close)', 'b (broad)', 'k (black)', 'e (enlarging)', 'e (equal)', 's (smooth)',
-         's (smooth)', 'w (white)', 'w (white)', 'p (partial)', 'w (white)', 'o (one)',
-         'p (pendant)', 'k (black)', 's (scattered)', 'u (urban)'],
-        # Example 2: Typical poisonous mushroom
-        ['x (convex)', 'y (scaly)', 'w (white)', 't (bruises)', 'p (pungent)', 'f (free)',
-         'c (close)', 'n (narrow)', 'k (black)', 'e (enlarging)', 'e (equal)', 's (smooth)',
-         's (smooth)', 'w (white)', 'w (white)', 'p (partial)', 'w (white)', 'o (one)',
-         'p (pendant)', 'w (white)', 's (scattered)', 'g (grasses)'],
-    ],
     theme=gr.themes.Soft(),
 )
 

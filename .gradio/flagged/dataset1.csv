@@ -1,0 +1,38 @@
+Cap Shape,Cap Surface,Cap Color,Bruises,Odor,Gill Attachment,Gill Spacing,Gill Size,Gill Color,Stalk Shape,Stalk Root,Stalk Surface Above Ring,Stalk Surface Below Ring,Stalk Color Above Ring,Stalk Color Below Ring,Veil Type,Veil Color,Ring Number,Ring Type,Spore Print Color,Population,Habitat,Prediction Result,timestamp
+k (knobbed),s (smooth),n (brown),t (bruises),y (fishy),f (free),c (close),n (narrow),k (black),e (enlarging),e (equal),s (smooth),s (smooth),w (white),w (white),p (partial),w (white),o (one),p (pendant),k (black),s (scattered),u (urban),"# 🍄 ✅ **EDIBLE**
+
+### The mushroom is predicted to be **EDIBLE**
+
+⚠️ **Important Disclaimer:** This is a machine learning prediction and should NOT be used as the sole 
+basis for consuming wild mushrooms. Always consult with a mycology expert before consuming any wild mushroom.",2025-10-29 12:38:21.289153
+k (knobbed),s (smooth),n (brown),t (bruises),f (foul),f (free),c (close),b (broad),k (black),e (enlarging),e (equal),s (smooth),s (smooth),w (white),w (white),p (partial),w (white),o (one),p (pendant),k (black),s (scattered),u (urban),"# 🍄 ✅ **EDIBLE**
+
+### The mushroom is predicted to be **EDIBLE**
+
+⚠️ **Important Disclaimer:** This is a machine learning prediction and should NOT be used as the sole 
+basis for consuming wild mushrooms. Always consult with a mycology expert before consuming any wild mushroom.",2025-10-29 12:38:45.149671
+c (conical),s (smooth),n (brown),t (bruises),f (foul),f (free),c (close),b (broad),k (black),e (enlarging),e (equal),s (smooth),s (smooth),w (white),w (white),p (partial),w (white),o (one),p (pendant),k (black),s (scattered),u (urban),"# 🍄 ✅ **EDIBLE**
+
+### The mushroom is predicted to be **EDIBLE**
+
+⚠️ **Important Disclaimer:** This is a machine learning prediction and should NOT be used as the sole 
+basis for consuming wild mushrooms. Always consult with a mycology expert before consuming any wild mushroom.",2025-10-29 12:38:49.682880
+c (conical),s (smooth),e (red),t (bruises),f (foul),f (free),c (close),b (broad),k (black),e (enlarging),e (equal),s (smooth),s (smooth),w (white),w (white),p (partial),w (white),o (one),p (pendant),k (black),s (scattered),u (urban),"# 🍄 ✅ **EDIBLE**
+
+### The mushroom is predicted to be **EDIBLE**
+
+⚠️ **Important Disclaimer:** This is a machine learning prediction and should NOT be used as the sole 
+basis for consuming wild mushrooms. Always consult with a mycology expert before consuming any wild mushroom.",2025-10-29 12:38:56.333240
+x (convex),s (smooth),n (brown),t (bruises),n (none),f (free),c (close),n (narrow),k (black),e (enlarging),e (equal),s (smooth),s (smooth),w (white),w (white),p (partial),w (white),o (one),p (pendant),k (black),s (scattered),u (urban),,2025-10-29 12:41:56.502444
+x (convex),s (smooth),n (brown),t (bruises),n (none),f (free),c (close),n (narrow),k (black),e (enlarging),e (equal),s (smooth),s (smooth),w (white),w (white),p (partial),w (white),o (one),p (pendant),k (black),s (scattered),u (urban),,2025-10-29 12:42:01.518270
+x (convex),s (smooth),n (brown),t (bruises),s (spicy),a (attached),c (close),n (narrow),k (black),e (enlarging),e (equal),s (smooth),s (smooth),w (white),w (white),p (partial),w (white),o (one),p (pendant),k (black),s (scattered),u (urban),,2025-10-29 12:42:06.716361
+x (convex),s (smooth),n (brown),t (bruises),s (spicy),a (attached),c (close),n (narrow),k (black),e (enlarging),e (equal),s (smooth),s (smooth),w (white),w (white),p (partial),w (white),o (one),p (pendant),k (black),s (scattered),u (urban),"# ☠️ ⚠️ **POISONOUS**
+
+### The mushroom is predicted to be **POISONOUS**
+
+🚨 **DO NOT EAT** this mushroom based on these characteristics!",2025-10-29 12:42:35.099323
+x (convex),s (smooth),n (brown),f (no),p (pungent),a (attached),c (close),n (narrow),k (black),e (enlarging),e (equal),s (smooth),s (smooth),w (white),w (white),p (partial),w (white),o (one),p (pendant),k (black),s (scattered),u (urban),"# ☠️ ⚠️ **POISONOUS**
+
+### The mushroom is predicted to be **POISONOUS**
+
+🚨 **DO NOT EAT** this mushroom based on these characteristics!",2025-10-29 12:42:57.515214
