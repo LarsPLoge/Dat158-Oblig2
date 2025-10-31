@@ -43,7 +43,7 @@ def prepare_test_data():
     mushroom = fetch_ucirepo(id=73)
     
     X = mushroom.data.features
-    X = X[['gill-size', 'odor', 'gill-spacing', 'stalk-surface-above-ring', 'spore-print-color', 'stalk-root']]
+    # X = X[['gill-size', 'odor', 'gill-spacing', 'stalk-surface-above-ring', 'spore-print-color', 'stalk-root']]
     y = mushroom.data.targets.squeeze()
     
     # Use the same split as training to get the same test set
