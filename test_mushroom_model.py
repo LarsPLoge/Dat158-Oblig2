@@ -43,7 +43,7 @@ def prepare_test_data():
     mushroom = fetch_ucirepo(id=73)
     
     X = mushroom.data.features
-    # X = X[['gill-size', 'odor', 'gill-spacing', 'stalk-surface-above-ring', 'spore-print-color', 'stalk-root']]
+    X = X[['gill-size', 'odor', 'gill-spacing', 'stalk-surface-above-ring', 'spore-print-color', 'stalk-root']]
     y = mushroom.data.targets.squeeze()
     
     # Use the same split as training to get the same test set
@@ -132,7 +132,7 @@ def plot_confusion_matrix(cm, y_test, y_pred):
     plt.ylabel('True Label', fontsize=12)
     
     # Save the figure
-    output_path = Path(__file__).parent / 'confusion_matrix.png'
+    output_path = Path(__file__).parent / 'data_exploration/confusion_matrix.png'
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     print(f"\n✓ Confusion matrix plot saved to: {output_path}")
     
@@ -237,7 +237,7 @@ def plot_feature_importance(sorted_features):
     plt.tight_layout()
     
     # Save the figure
-    output_path = Path(__file__).parent / 'feature_importance.png'
+    output_path = Path(__file__).parent / 'data_exploration/feature_importance.png'
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     print(f"\n✓ Feature importance plot saved to: {output_path}")
     

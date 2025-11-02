@@ -20,7 +20,7 @@ mushroom = fetch_ucirepo(id=73)
 
 # Data (as pandas dataframes)
 X = mushroom.data.features
-# X = X[['gill-size', 'odor', 'gill-spacing', 'stalk-surface-above-ring', 'spore-print-color', 'stalk-root']]
+X = X[['gill-size', 'odor', 'gill-spacing', 'stalk-surface-above-ring', 'spore-print-color', 'stalk-root']]
 y = mushroom.data.targets.squeeze()  # Ensure y is 1D
 
 # Split the data into training and testing sets
